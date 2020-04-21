@@ -1,0 +1,12 @@
+.child{
+  background-color: #4e93ff;
+  color: #fff;
+  padding: 20rpx;
+  height: 100%;
+}
+.title{
+  margin-bottom: 15rpx;
+}
+button{
+  margin-bottom: 5rpx;
+}

@@ -1,0 +1,8 @@
+<view class="container">
+  <view class="parents flex1">
+    <view class="title">父组件：{{title}}</view>
+    <button bindtap="sendMessage">按钮：点我发消息给兄弟组件</button>
+  </view>
+  <child2 class="flex1"/>
+  <child1 class="flex1"/>
+</view>

@@ -1,0 +1,8 @@
+.child{
+  background-color: gray;
+  padding: 20rpx;
+  height: 100%;
+}
+.title{
+  margin-bottom: 15rpx;
+}

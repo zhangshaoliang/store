@@ -1,0 +1,7 @@
+<view class="child">
+  <view class="title">子组件2的内容 :</view>
+  <button bindtap="sendMessage">按钮：点我发消息给兄弟组件</button>
+  <button bindtap="changeTitle">按钮：点我修改标题</button>
+</view>
+
+

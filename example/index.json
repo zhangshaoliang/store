@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "child1": "./child1/index",
+    "child2": "./child2/index"
+  }
+}
