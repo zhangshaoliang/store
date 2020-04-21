@@ -1,6 +1,6 @@
 <view class="child">
   <view>子组件1的内容:</view>
-  <view wx:for="{{list}}">{{item}}</view>
+  <view wx:for="{{list}}">{{item}}--{{list.length}}</view>
 </view>
 
 
